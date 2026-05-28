@@ -1,0 +1,32 @@
+aid: lowy-asia-power-index
+name: Lowy Asia Power Index
+description: "Get measure resources and influence to rank the relative power of states in Asia"
+url: https://github.com/0x0is1/lowy-index-api-docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: Lowy Asia Power Index
+    description: "Get measure resources and influence to rank the relative power of states in Asia"
+    humanURL: https://github.com/0x0is1/lowy-index-api-docs
+    baseURL: https://github.com/0x0is1/lowy-index-api-docs
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://github.com/0x0is1/lowy-index-api-docs
+common:
+  - type: Website
+    url: https://github.com/0x0is1/lowy-index-api-docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
